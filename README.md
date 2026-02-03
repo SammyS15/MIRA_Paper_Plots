@@ -5,7 +5,7 @@ This repository contains plotting code and data for the MIRA paper submission.
 ## Repository Structure
 
 ```
-ICLR_2026_Plots/
+MIRA_Paper_Plots/
 ├── notebooks/                           # Jupyter notebooks
 │   ├── main_plotting.ipynb              # Primary plotting notebook (all figures)
 │   ├── GMM_Plot.ipynb                   # GMM-specific plots
