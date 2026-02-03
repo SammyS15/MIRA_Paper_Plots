@@ -1,6 +1,6 @@
-# ICML 2026 Plots
+# MIRA Paper Plots
 
-This repository contains plotting code and data for the ICML 2026 paper submission.
+This repository contains plotting code and data for the MIRA paper submission.
 
 ## Repository Structure
 

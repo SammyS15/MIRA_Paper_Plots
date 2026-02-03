@@ -20,6 +20,9 @@ ENV/
 *.swp
 *.swo
 
+# Local development
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
